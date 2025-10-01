@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Para Ti, Mi Amor 💖</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(135deg, #ffdde1, #ee9ca7);
+      color: #333;
+      text-align: center;
+      line-height: 1.8;
+    }
+
+    header {
+      padding: 40px 20px;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      color: #fff;
+      text-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+    }
+
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: rgba(255, 255, 255, 0.85);
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    section h2 {
+      color: #e63946;
+      font-size: 2rem;
+      margin-bottom: 15px;
+    }
+
+    section p {
+      font-size: 1.2rem;
+    }
+
+    .gallery img {
+      width: 80%;
+      max-width: 400px;
+      margin: 20px auto;
+      display: block;
+      border-radius: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    footer {
+      margin: 40px 0;
+      color: #fff;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🎉 Feliz Cumpleaños, Mi Amor 💕</h1>
+  </header>
+
+  <!-- Imagen inicial -->
+  <div class="gallery">
+    <img src="foto1.jpg" alt="Tu sonrisa que amo">
+  </div>
+
+  <!-- Texto 1 -->
+  <section>
+    <h2>Este día tan especial ✨</h2>
+    <p>
+      Hoy celebro el día en que naciste, porque sin saberlo ese día cambió el rumbo de mi vida.  
+      Desde entonces el mundo tiene más luz, más alegría y más razones para sonreír gracias a ti.  
+    </p>
+  </section>
+
+  <!-- Texto 2 -->
+  <section>
+    <h2>Gracias por existir 🙏</h2>
+    <p>
+      Agradezco cada momento que hemos compartido, cada palabra y cada sonrisa.  
+      Tenerte en mi vida me ha hecho darme cuenta de lo valioso que es conocerte,  
+      y de lo importante que eres para mí cada día.  
+    </p>
+  </section>
+
+  <!-- Imagen -->
+  <div class="gallery">
+    <img src="foto2.jpg" alt="Momentos juntos">
+  </div>
+
+  <!-- Texto 3 Reflexión -->
+  <section>
+    <h2>Nuestro destino 💫</h2>
+    <p>
+      A veces pienso en lo increíble que fue coincidir contigo.  
+      Entre millones de caminos, nuestros pasos se encontraron, como si la vida hubiera escrito nuestra historia mucho antes de conocernos.  
+      No creo que haya sido casualidad, sino una hermosa forma que tuvo el destino de regalarme a alguien tan especial.  
+      Lo nuestro es la prueba de que lo más hermoso ocurre cuando menos lo esperas.  
+    </p>
+  </section>
+
+  <!-- Imagen -->
+  <div class="gallery">
+    <img src="foto3.jpg" alt="Nosotros">
+  </div>
+
+  <!-- Texto 4 Despedida -->
+  <section>
+    <h2>Siempre contigo 💕</h2>
+    <p>
+      Gracias por estar a mi lado en cada momento, por ser mi apoyo y mi calma.  
+      Eres mi razón de luchar, de sonreír y de seguir soñando.  
+      Siempre tendrás en mí alguien que te ama, te admira y estará para ti en todo.  
+    </p>
+  </section>
+
+  <footer>
+    Hecho con todo mi amor 💌
+  </footer>
+
+</body>
+</html>
