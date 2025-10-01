@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Para Ti, Mi Amor 💖</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(135deg, #ffdde1, #ee9ca7);
+      color: #333;
+      text-align: center;
+      line-height: 1.8;-
+    }
+
+    header h1 {
+      font-size: 3rem;
+      color: #fff;
+      text-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+    }
+
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 25px;
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      text-align: left;
+    }
+
+    section h2 {
+      color: #e63946;
+      font-size: 2rem;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    section p {
+      font-size: 1.2rem;
+      text-align: justify;
+    }
+
+    .gallery img {
+      width: 85%;
+      max-width: 450px;
+      margin: 20px auto;
+      display: block;
+      border-radius: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    footer {
+      margin: 40px 0;
+      color: #fff;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🎉 Feliz Cumpleaños, Mi Amor 💕</h1>
+  </header>
+
+  <!-- Imagen inicial -->
+  <div class="gallery">
+    <img src="foto1.jpg" alt="Tu sonrisa que amo">
+  </div>
+
+  <!-- Texto 1 -->
+  <section>
+    <h2>Este día tan especial ✨</h2>
+    <p>
+      Hoy quiero recordarte lo increíble que es este día, porque un día como hoy llegaste al mundo, 
+      y aunque yo no estaba ahí, sé que desde ese instante ya eras una persona destinada a iluminar la vida de quienes te rodean. 
+      Para mí, tu cumpleaños no es solo una fecha más, es el recordatorio de lo afortunado que soy de poder acompañarte, 
+      de poder ver tu sonrisa y escuchar tu voz. Naciste para brillar, para hacer que todo lo que tocas tenga más sentido, 
+      y yo solo puedo agradecerle a la vida que me haya dejado estar contigo en este camino. 
+    </p>
+  </section>
+
+  <!-- Texto 2 -->
+  <section>
+    <h2>Gracias por existir 🙏</h2>
+    <p>
+      A veces me pongo a pensar cómo sería mi vida si nunca te hubiera conocido, 
+      y la verdad es que no me imagino un solo día sin ti. 
+      Has sido la persona que me enseñó lo valioso de los pequeños momentos, 
+      que estar contigo no necesita planes perfectos porque todo a tu lado se siente único. 
+      Gracias por existir, por darme tu tiempo, tus palabras, tus abrazos, por enseñarme a querer sin miedo. 
+      Si pudiera elegir una y mil veces, siempre te elegiría a ti, porque desde que llegaste, 
+      las cosas dejaron de ser simples y se volvieron especiales. 
+    </p>
+  </section>
+
+  <!-- Imagen -->
+  <div class="gallery">
+    <img src="foto2.jpg" alt="Momentos juntos">
+  </div>
+
+  <!-- Texto 3 Reflexión -->
+  <section>
+    <h2>Nuestro destino 💫</h2>
+    <p>
+      Pienso mucho en cómo nos conocimos, en lo fácil que pudo no haber pasado, 
+      y me doy cuenta de que lo nuestro no fue casualidad. 
+      Entre tantas personas en este mundo, fue contigo con quien me crucé, 
+      fue tu sonrisa la que me atrapó, fue tu forma de ser la que me hizo quedarme. 
+      Y creo que eso no se lo debo a la suerte, sino al destino, 
+      que quiso que nuestras vidas se juntaran.  
+      Hay momentos en los que siento que todo lo que viví antes solo era preparación 
+      para poder valorar más lo increíble que es tenerte ahora. 
+      Gracias a ti aprendí que el amor no se busca, simplemente aparece, 
+      y cuando aparece, no hay que dejarlo ir. 
+    </p>
+  </section>
+
+  <!-- Imagen -->
+  <div class="gallery">
+    <img src="foto3.jpg" alt="Nosotros">
+  </div>
+
+  <!-- Texto 4 Despedida -->
+  <section>
+    <h2>Siempre contigo 💕</h2>
+    <p>
+      Solo quiero terminar diciéndote gracias, 
+      porque sé que no siempre es fácil, pero aun así estás aquí. 
+      Gracias por escucharme, por apoyarme cuando lo necesito, 
+      por compartir tanto de ti conmigo. 
+      Sé que no soy perfecto, pero contigo quiero ser la mejor versión de mí, 
+      porque me inspiras a ser alguien digno de tu amor.  
+      Pase lo que pase, quiero que tengas presente que siempre estaré para ti, 
+      en tus alegrías, en tus miedos, en tus sueños.  
+      Te amo más de lo que puedo explicar con palabras, 
+      y espero que con esta pequeña sorpresa sepas lo importante que eres para mí. 
+    </p>
+  </section>
+
+  <footer>
+    Hecho con todo mi amor 💌
+  </footer>
+
+</body>
+</html>
